@@ -1,0 +1,3 @@
+# comment
+
+cmake .; cmake --build .
